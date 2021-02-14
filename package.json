@@ -1,28 +1,34 @@
 {
   "name": "vscode-testing-playground",
-  "displayName": "vscode-testing-playground",
-  "repository": "https://github.com/aganglada/vscode-testing-playground",
+  "displayName": "Testing Playground",
   "description": "Bring Testing Playground into VSCode",
   "icon": "assets/testing-playground-logo.jpg",
   "publisher": "aganglada",
-  "version": "0.0.1",
+  "license": "ISC",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.53.0"
   },
+  "homepage": "https://github.com/aganglada/vscode-testing-playground/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/aganglada/vscode-testing-playground/issues",
+    "email": "aganglada@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aganglada/vscode-testing-playground.git"
+  },
   "categories": [
+    "Debuggers",
+    "Testing",
     "Other"
   ],
   "activationEvents": [
-    "*"
+    "onStartupFinished"
   ],
   "main": "./out/extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "vscode-testing-playground.helloWorld",
-        "title": "Hello World"
-      }
-    ]
+    "commands": []
   },
   "scripts": {
     "vscode:prepublish": "yarn run compile",
