@@ -1,7 +1,10 @@
 {
   "name": "vscode-testing-playground",
   "displayName": "vscode-testing-playground",
+  "repository": "https://github.com/aganglada/vscode-testing-playground",
   "description": "Bring Testing Playground into VSCode",
+  "icon": "assets/testing-playground-logo.jpg",
+  "publisher": "aganglada",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.53.0"

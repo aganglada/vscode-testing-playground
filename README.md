@@ -2,7 +2,7 @@
 
 Bring testing Playground inside VSCode!
 
-![Testing Playground into VSCode](vscode-testing-playgroung.gif)
+![Testing Playground into VSCode](./assets/vscode-testing-playgroung.gif)
 
 ## Why install this extension?
 
