@@ -6,7 +6,7 @@ Bring testing Playground inside VSCode!
 
 ## Why install this extension?
 
-Do you find yourself context switching between browser and VSCode while debugging your tests with [Testing Playground](https://testing-playground.com/)? Here your solution. Install this extension and all your testing Playground Links will open inside VSCode.
+Do you find yourself context switching between browser and VSCode while debugging your tests with [Testing Playground](https://testing-playground.com/)? Here is your solution. Install this extension and all your testing Playground Links will open inside VSCode.
 
 ## Release Notes
 
